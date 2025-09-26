@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Zoho UCP Integration Shams",
-  "version": "2.0",
+  "name": "Zoho UCP Integration",
+  "version": "1.0",
   "description": "Integrates UCP (Unified Communications Platform) into web applications with draggable interface and call handling.",
   "permissions": [
     "storage",
